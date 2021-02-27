@@ -1,0 +1,580 @@
+/* Find do color css */
+.heading > h2 > span{
+  color: #363A3F;
+}
+#header-top {
+  background: #eaeeef;
+}
+#main_header_3 .wrap-sticky nav.navbar.bootsnav.sticked {
+  background: #024252;
+}
+.top_right_links2-bg {
+  background: #363A3F;
+}
+.top_right_links2-bg::after {
+  border-color: transparent transparent #363A3F;
+}
+nav.navbar.bootsnav li.dropdown ul.dropdown-menu {
+  border-color: #363A3F;
+}
+nav.navbar.bootsnav li.dropdown ul.dropdown-menu > li a:hover, 
+nav.navbar.bootsnav li.dropdown ul.dropdown-menu > li.active a,
+nav.navbar.bootsnav li.dropdown ul.dropdown-menu > li:focus a{
+  background-color: #363A3F;
+  color:#fff;
+}
+nav.navbar.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:hover,
+nav.navbar.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li.active a{
+	background:#363A3F;
+}
+.group-button-search {
+  background: #363A3F;
+}
+.intro .dropdown li.current {
+  background-color: #363A3F;
+}
+.search-btn > button {
+  background: #363A3F;
+}
+.directory-category-heading span {
+	color:#363A3F;
+}
+.sort-listing.nav-tabs > li.active > a, 
+.sort-listing.nav-tabs > li.active > a:focus, 
+.sort-listing.nav-tabs > li.active > a:hover,
+.sort-listing.nav > li > a:focus,
+.sort-listing.nav > li > a:hover {
+  border: 1px solid #363A3F;
+  background:#363A3F;
+}
+.popular-listing-box {
+  border-bottom: 2px solid #363A3F;
+}
+figure.effect-ming figcaption::before {
+  border:1px solid #363A3F;
+}
+.effect-ming a {
+  background: #363A3F;
+}
+.popular-listing-detail h3 a:hover{
+	color:#363A3F;
+}
+.right-bar h4 span{
+  color: #363A3F;
+}
+footer#footer {
+	border-top: 3px solid #363A3F;
+}
+.form-group > button {
+  background: #363A3F;
+}
+.recent-listing-links .recent-jobs:hover,
+.recent-listing-links .recent-readmore:hover{
+  color: #363A3F;
+}
+#recent-listing .owl-prev,
+#recent-listing .owl-next{
+  background: #363A3F;
+}
+.call-to-action-btn > a:first-child{
+	background:#363A3F;
+}
+.best-things-details .effect-ming a {
+  border: 1px solid #363A3F;
+}
+.best-things-details .effect-ming a:hover{
+  background:#363A3F;
+}
+.best-things-listing > li > a:hover{
+  color: #363A3F;
+}
+.best-things-address span {
+  background: #363A3F;
+}
+.number-counters .counters-item i {
+  color: #363A3F;
+}
+.number-counters .counters-item p {
+  color: #363A3F;
+}
+.latest-details > h3 > a:hover{
+  color: #363A3F;
+}
+.latest-details li a:hover{
+	color:#363A3F;
+}
+.latest-news-2-details li a:hover,
+.latest-news-2-details h3 a:hover{
+  color: #363A3F;
+}
+footer#footer {
+  border-top: 3px solid #363A3F;
+}
+.footer-links > h3 > span{
+	color:#363A3F;
+}
+.footer-links > h3::after {
+  background: #363A3F;
+}
+.footer-links li a:hover{
+	color:#363A3F;
+}
+.footer-links li a span .fa {
+  color: #363A3F;
+}
+.sub-newsletter > button {
+	background: #363A3F;
+	border: 1px solid #363A3F;
+	border-left:1px solid transparent;
+	color:#fff;
+}
+.footer-copyright p a{
+	color:#363A3F;
+}
+#best-thing-model .modal-header .close:focus,
+#best-thing-model .modal-header .close:hover {
+  color: #363A3F;
+}
+#best-thing-slider .owl-prev,
+#best-thing-slider .owl-next {
+  background: #363A3F;
+}
+.best-thing-model-btn a {
+  background: #363A3F;
+}
+.best-thing-model-feature li:before{
+  color: #363A3F;
+}
+#main_header_3 nav.navbar.bootsnav ul.nav > li.add-listing > a:hover{
+  border: 1px solid #363A3F;
+  color:#fff;
+  background:#363A3F;
+}
+.banner-text-3 > h2 > span{
+  color: #363A3F;
+}
+.directory-category-box3 span .fa {
+  font-size: 40px;
+  color:#363A3F;
+}
+.inner_banner_2_detail p a:hover{
+	color:#363A3F;
+}
+nav.navbar.bootsnav ul.nav > li > a:hover,
+#main_header_3 nav.navbar.bootsnav ul.nav > li > a:hover{
+  color: #363A3F;
+}
+nav.navbar.bootsnav ul.nav li.megamenu-fw > a:hover, 
+nav.navbar.bootsnav ul.nav li.megamenu-fw > a:focus, 
+nav.navbar.bootsnav ul.nav li.active > a:hover, 
+nav.navbar.bootsnav ul.nav li.active > a:focus, 
+nav.navbar.bootsnav ul.nav li.active > a,
+#main_header_3 nav.navbar.bootsnav ul.nav > li > a:focus,
+#main_header_3 nav.navbar.bootsnav ul.nav > li.active > a{
+  color: #363A3F;
+}
+.banner-text h2 span {
+  color: #363A3F;
+}
+.right-bar-listing li a:hover{
+  color: #363A3F;
+}
+.footer-about a:hover{
+	color:#363A3F;
+}
+.footer-about a:hover .fa{
+	color:#00463e;
+}
+.directory-category-box a h3:hover{
+  color:#00463e ;
+}
+.footer-copyright p a:hover{
+	color:#ccc;
+}
+.top_links li a:hover{
+  color: #ccc;
+}
+.footer_link > li > a:hover {
+  color: #363A3F;
+}
+.footer_botom a:hover{
+	color:#363A3F;
+}
+#post-visited-places .popular-listing-detail > p > .fa{
+	color:#363A3F;
+}
+#post-visited-places .popular-listing-detail > span > a:hover{
+  color: #363A3F;
+}
+#post-visited-places .place-listing-add > li > a:hover{
+	color:#363A3F;
+}
+.right-bar-listing li a:hover .fa{
+  border: 1px solid #363A3F;
+  background-color: #363A3F;
+}
+.places-list h5 a:hover{
+	color:#363A3F;
+}
+.places-list .media-heading .fa{
+	color:#363A3F;
+}
+#popular-listing .pagination > .active > a, 
+#popular-listing .pagination > .active > a:focus, 
+#popular-listing .pagination > .active > a:hover, 
+#popular-listing .pagination > .active > span, 
+#popular-listing .pagination > .active > span:focus, 
+#popular-listing .pagination > .active > span:hover {
+  background-color: #363A3F;
+  border-color: #363A3F;
+}
+#popular-listing .pagination > li > a:hover{
+  background-color: #363A3F;
+  border-color: #363A3F;
+}
+#login-register .nav-tabs > li > a:hover{
+	background:#363A3F;
+	border:1px solid #363A3F;
+}
+#login-register .nav-tabs > li.active > a, 
+#login-register .nav-tabs > li.active > a:focus, 
+#login-register .nav-tabs > li.active > a:hover {
+	background-color: #363A3F;
+	border:1px solid #363A3F;
+}
+.login-register-bg {
+	background: #363A3F;
+}
+.dropzone {
+  border:3px solid #363A3F;
+}
+.dropzone:hover {
+  border: 5px solid #363A3F;
+}
+.dropzone.profile-picture .dz-default.dz-message {
+  background-color: #363A3F;
+}
+.profile-list li a:hover,
+.profile-list li.active a{
+	background:#363A3F;
+}
+.profile-login-bg h2 span{
+	color:#363A3F;
+}
+.login-msg p a{
+	color:#363A3F;
+}
+.cont_package{
+	background: #363A3F;
+}
+.listing-title-area label span{
+	color:#363A3F;
+}
+ul.packg-detail li .fa{
+	color:#363A3F;
+}
+ul.day-open li a{
+	color:#363A3F;
+}
+.add-day .single-query a{
+	background: #363A3F;
+}
+.listing-title-area .form-group p a{
+	color:#363A3F;
+}
+.details-heading h2 a span{
+	color:#363A3F;
+}
+.details-heading-address p .fa{
+	color:#363A3F;
+}
+.details-heading-address ul li .fa{
+	color:#363A3F;
+}
+.details-heading-address2 ul li a{
+	background:#363A3F;
+}
+#cd-google-map p a{
+	color:#363A3F;
+}
+.add-more a {
+	background: #363A3F;
+}
+#listing-details .panel-default > .panel-heading {
+	background-color: #363A3F;
+}
+.listing-amenities li .fa{
+	color:#363A3F;
+}
+.listing-special-detail h3 span {
+	color:#363A3F;
+}
+.rating.active .stars .fa:hover{
+	color: #363A3F;
+}
+.add-listing-bg.heading p a{
+	color: #363A3F;
+}
+.service-two-detail:hover {
+	background: #363A3F;
+}
+.service-two-detail:hover {
+	background: #363A3F;
+}
+#about-bg-img2 a {
+	background: #363A3F;
+}
+.blog-admin li a:hover{
+	color:#363A3F;
+}
+.blog-admin li .fa{
+	color:#363A3F;
+}
+.blog-detail a.blog-btn{
+	background: #363A3F;
+}
+.blog-detail-review-detail a span {
+	color:#363A3F;
+}
+.planContainer .price p.bestPlanPrice {
+	background: #363A3F;
+}
+.planContainer .button a {
+	color: #363A3F;
+	border: 1px solid #363A3F;
+}
+.planContainer .button a.bestPlanButton {
+	background: #363A3F;
+	border: 2px solid #363A3F;
+}
+.planContainer .button a:hover {
+	background: #363A3F;
+}
+.planContainer .button a.bestPlanButton:hover {
+	background: #363A3F;
+	border:1px solid #363A3F;
+}
+.address-box .fa {
+	background: #363A3F;
+}
+.address-box p a:hover{
+	color:#363A3F;
+}
+.effect-ming a:hover{
+  color:#363A3F;
+}
+.user-btn > a:hover{
+  background: #00463e;
+}
+.login-register-bg .form-group > button:hover{
+	background:#00463e;
+	border:1px solid #00463e;
+}
+.login-register-bg .form-group > a:hover{
+	color:#00463e;
+}
+.add-day .single-query a:hover{
+	background: #00463e;
+}
+.details-heading-address2 ul li a:hover{
+	background:#00463e;
+}
+.listing-amenities li a:hover{
+	color:#00463e;
+}
+#about-bg-img2 a:hover{
+	background: #00463e;
+}
+.blog-detail a.blog-btn:hover{
+	background: #00463e;
+}
+.bg_blue {
+  background: #024252;
+}
+.ads-type {
+  background-color: #363A3F;
+}
+.ads-type .nav-box a {
+  background-color: #363A3F;
+}
+.ads-type .nav-box a:hover,
+.ads-type .nav-box a:focus {
+  background-color: #048677;
+}
+.ads-type .nav-box .previous {
+  border: 1px solid #048677;
+  border-right: 1px solid #048677;
+}
+.ads-type .nav-box .next {
+  border-right: 1px solid #048677;
+}
+.ads-type a.item-type {
+  border-right: 1px solid #048677;
+  background-color: #363A3F;
+}
+.ads-type a.item-type:hover {
+  background-color: #048677;
+}
+.ads-type a.item-type.item-selected {
+  background-color: #048677;
+}
+.add-listing > a {
+  background: #363A3F;
+}
+.ads-type .nav-box a:hover,
+.ads-type .nav-box a:focus {
+  background-color: #048677;
+}
+.ads-type .nav-box .previous {
+  border: 1px solid #048677;
+  border-right: 1px solid #048677;
+}
+.ads-type .nav-box .next {
+  border-right: 1px solid #048677;
+}
+#maps .loading-container .spinner {
+  background-color: #363A3F;
+}
+#maps .control-left-wrapper div:after,
+#maps .control-right-wrapper div:after {
+  background-color: #363A3F;
+  border: 1px solid #363A3F;
+}
+.ads-maps .img-container .title {
+  background-color:#363A3F;
+}
+.ads-maps .price {
+  background-color:#363A3F;
+}
+.ads-maps .details {
+  border-bottom: 4px solid #363A3F;
+}
+.ads-maps .img-container .title:after,
+.ads-maps .img-container .title:before {
+  background-color: #048677;
+}
+.ads-maps .img-container .title:hover {
+  background-color:#048677;
+}
+#error_page .btn-checkout:hover {
+	background-color: #363A3F;
+	border-color: #363A3F;
+}
+.directory-category-overlay {
+  background: #363A3F;
+}
+#call-to-action2{
+  background: #363A3F;
+}
+#inner-banner {
+  background: #363A3F;
+}
+.group-button-search:hover{
+	background:#00463e ;
+}
+.search-btn > button:hover{
+  background: #00463e ;
+}
+footer#footer::after {
+  background: #3a2f2f;
+}
+.sub-newsletter > button:hover{
+  background: #fff;
+  border-color:#fff;
+  color:#3a2f2f;
+  transition:all .3s ease-in-out .3s;
+}
+#best-thing-slider .owl-prev:hover,
+#best-thing-slider .owl-next:hover{
+	background: #00463e;
+}
+.best-thing-model-btn a:hover{
+  background: #00463e;
+}
+.banner-text > a:hover{
+	background:#363A3F;
+	border: 1px solid #363A3F;
+}
+#directory-category-slider .owl-prev:hover,
+#directory-category-slider .owl-next:hover{
+	background:#363A3F;
+	border: 1px solid #363A3F;
+}
+
+#places-slider .owl-prev:hover,
+#places-slider .owl-next:hover{
+	background:#363A3F;
+	border: 1px solid #363A3F;
+}
+.discover > a:hover{
+  border: 1px solid #363A3F;
+  background:#363A3F;
+}
+/**/
+.add-listing > a:hover{
+  background: #048677;
+}
+.form-group > button:hover,
+#recent-listing .owl-prev:hover,
+#recent-listing .owl-next:hover,
+.call-to-action-btn > a:last-child:hover,
+.call-to-action-btn > a:first-child:hover
+{
+  background: #00463e;
+}
+.social-icons li:hover {
+  background: #363A3F;
+}
+.latest_box {
+  background: #363A3F;
+}
+#our-blog .col-md-2 > span > a {
+  background: #363A3F;
+}
+#latest_news-slider .owl-dot.active {
+  background: #363A3F;
+}
+.user-btn > a {
+  background: #363A3F;
+}
+#banner-2  .btn-primary {
+  background-color: #363A3F;
+}
+.input-group-addon {
+  background-color: #363A3F;
+}
+#finddo-accordion .panel-heading {
+  background: #363A3F;
+}
+.map-popup > a {
+  background: #363A3F;
+}
+.finddo-place:hover,
+.finddo-place.active {
+  background: #363A3F;
+}
+.map-popup > a:hover{
+  background: #00463e;
+}
+.og-details a:hover {
+	border-color: #00463e;
+	background:#00463e;
+}
+.og-details a {
+	background:#363A3F;
+}
+.og-details h3 span{
+	color:#363A3F;
+}
+#maps .find-result:after {
+  background-color: rgba(31, 183, 166, 0.8);
+}
+#maps .find-result {
+  background-color: rgba(31, 183, 166, 0.6);
+}
+@media (max-width: 767px){
+	.top_links li a:hover,
+	.top_right_links2 .add-listing > a:hover{
+	  color: #363A3F;
+	}
+}
